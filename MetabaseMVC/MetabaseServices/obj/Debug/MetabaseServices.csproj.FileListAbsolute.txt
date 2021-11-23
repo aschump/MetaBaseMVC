@@ -1,0 +1,6 @@
+C:\Amber\MetabaseMVC\MetabaseMVC\MetabaseServices\bin\Debug\MetabaseServices.dll
+C:\Amber\MetabaseMVC\MetabaseMVC\MetabaseServices\bin\Debug\MetabaseServices.pdb
+C:\Amber\MetabaseMVC\MetabaseMVC\MetabaseServices\obj\Debug\MetabaseServices.csprojAssemblyReference.cache
+C:\Amber\MetabaseMVC\MetabaseMVC\MetabaseServices\obj\Debug\MetabaseServices.csproj.CoreCompileInputs.cache
+C:\Amber\MetabaseMVC\MetabaseMVC\MetabaseServices\obj\Debug\MetabaseServices.dll
+C:\Amber\MetabaseMVC\MetabaseMVC\MetabaseServices\obj\Debug\MetabaseServices.pdb

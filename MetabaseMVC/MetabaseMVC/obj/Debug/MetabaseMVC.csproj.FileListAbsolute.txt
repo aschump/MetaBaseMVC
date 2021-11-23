@@ -1,0 +1,2 @@
+C:\Amber\MetabaseMVC\MetabaseMVC\MetabaseMVC\obj\Debug\MetabaseMVC.csprojAssemblyReference.cache
+C:\Amber\MetabaseMVC\MetabaseMVC\MetabaseMVC\obj\Debug\MetabaseMVC.csproj.CoreCompileInputs.cache

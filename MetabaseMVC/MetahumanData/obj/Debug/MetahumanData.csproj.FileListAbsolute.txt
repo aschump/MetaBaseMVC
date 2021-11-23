@@ -1,0 +1,16 @@
+C:\Amber\MetabaseMVC\MetabaseMVC\MetahumanData\bin\Debug\MetahumanData.dll.config
+C:\Amber\MetabaseMVC\MetabaseMVC\MetahumanData\bin\Debug\MetahumanData.dll
+C:\Amber\MetabaseMVC\MetabaseMVC\MetahumanData\bin\Debug\MetahumanData.pdb
+C:\Amber\MetabaseMVC\MetabaseMVC\MetahumanData\bin\Debug\EntityFramework.dll
+C:\Amber\MetabaseMVC\MetabaseMVC\MetahumanData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Amber\MetabaseMVC\MetabaseMVC\MetahumanData\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Amber\MetabaseMVC\MetabaseMVC\MetahumanData\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Amber\MetabaseMVC\MetabaseMVC\MetahumanData\bin\Debug\EntityFramework.xml
+C:\Amber\MetabaseMVC\MetabaseMVC\MetahumanData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Amber\MetabaseMVC\MetabaseMVC\MetahumanData\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Amber\MetabaseMVC\MetabaseMVC\MetahumanData\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Amber\MetabaseMVC\MetabaseMVC\MetahumanData\obj\Debug\MetahumanData.csprojAssemblyReference.cache
+C:\Amber\MetabaseMVC\MetabaseMVC\MetahumanData\obj\Debug\MetahumanData.csproj.CoreCompileInputs.cache
+C:\Amber\MetabaseMVC\MetabaseMVC\MetahumanData\obj\Debug\MetahumanData.csproj.CopyComplete
+C:\Amber\MetabaseMVC\MetabaseMVC\MetahumanData\obj\Debug\MetahumanData.dll
+C:\Amber\MetabaseMVC\MetabaseMVC\MetahumanData\obj\Debug\MetahumanData.pdb
