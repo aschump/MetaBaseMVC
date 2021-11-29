@@ -25,5 +25,7 @@ namespace MetabaseData
         [Key]
         public int SkillsID { get; set; }
         public SkillType SkillOne { get; set; }
+        public SkillType SkillTwo { get; set; }
+        public SkillType SkillThree { get; set; }
     }
 }

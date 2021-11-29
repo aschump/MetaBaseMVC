@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
@@ -13,8 +14,12 @@ namespace MetabaseData
         [Required]
         public string Name { get; set; }
         [Required]
+        public virtual Skill Skills { get; set; }
+        [ForeignKey("SkillID")]
         public int SkillsID { get; set; }
         [Required]
+        public virtual Species Species { get; set; }
+        [ForeignKey("SpeciesID")]
         public int SpeciesID { get; set; }
         [Required]
         public string Bio { get; set; }
